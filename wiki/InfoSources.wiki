@@ -1,0 +1,14 @@
+#summary Info sources
+#labels Phase-Implementation
+
+== Info Sources ==
+
+Here are all the info sources that i have found, about porting Android to other devices.
+
+
+|| [http://source.android.com/ Android OS source] || Official web. ||
+|| [http://groups.google.com/group/android-porting Android Porting] || Official Google group about porting Android to another devices. ||
+|| [http://www.kandroid.org/android_pdk/index.html Android Porting guide] || This guide is not actualiced, but it's a good starting point. The rest of the web it's in korean language. ||
+|| [http://omappedia.org/wiki/Android_Getting_Started OmapPedia] || Wiki about building Android for an OMAP device. It uses also uboot as bootloader. ||
+|| [http://www.linuxfordevices.com/c/a/Linux-For-Devices-Articles/Porting-Android-to-a-new-device/ Porting Android to nokia N810] || Useful info about porting android to another ARM-based device. ||
+ 
