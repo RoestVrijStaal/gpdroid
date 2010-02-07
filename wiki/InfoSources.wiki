@@ -11,4 +11,6 @@ Here are all the info sources that i have found, about porting Android to other 
 || [http://www.kandroid.org/android_pdk/index.html Android Porting guide] || This guide is not actualiced, but it's a good starting point. The rest of the web it's in korean language. ||
 || [http://omappedia.org/wiki/Android_Getting_Started OmapPedia] || Wiki about building Android for an OMAP device. It uses also uboot as bootloader. ||
 || [http://www.linuxfordevices.com/c/a/Linux-For-Devices-Articles/Porting-Android-to-a-new-device/ Porting Android to nokia N810] || Useful info about porting android to another ARM-based device. ||
+|| [http://elinux.org/Android_on_OMAP Android on Omap] || Another wiki about building Android Os for an OMAP device. It has more stuff than previous one. ||
+
  
